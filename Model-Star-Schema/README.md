@@ -10,6 +10,6 @@ O modelo foi desenvolvido com base em seis tabelas principais: Professor (tabela
 
 ### Resultado
 
-![Diagrama 1](img1.png)
+![Diagrama 1](img1.jpeg)
 
-![Diagrama 2](img2.png)
+![Diagrama 2](img2.jpeg)
