@@ -10,6 +10,6 @@ O modelo foi desenvolvido com base em seis tabelas principais: Professor (tabela
 
 ### Resultado
 <div>
-<img src="img1.jpeg" type="image/jpeg" alt="Print_Screen" height=210>
-<img src="img2.jpeg" type="image/jpeg" alt="Print_Screen Zoom" height=210>
+<img src="img1.jpeg" type="image/jpeg" alt="Print_Screen" height=250>
+<img src="img2.jpeg" type="image/jpeg" alt="Print_Screen Zoom" height=250>
 </div>
