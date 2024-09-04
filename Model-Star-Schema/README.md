@@ -9,7 +9,5 @@ Este desafio faz parte do bootcamp **NTT-Data** e tem como objetivo a criação 
 O modelo foi desenvolvido com base em seis tabelas principais: Professor (tabela fato central), Curso, Disciplina, Departamento, Data, e Matricula, abrangendo informações sobre professores, cursos, disciplinas, departamentos, datas importantes, e registros de matrícula dos professores.
 
 ### Resultado
-
-![Diagrama 1](img1.jpeg)
-
-![Diagrama 2](img2.jpeg)
+  <img src="img/print-screen1.png" type="image/jpeg" alt="Print_Screen" width=410>
+  <img src="img/print-screen2.png" type="image/jpeg" alt="Print_Screen Zoom" width=410>
