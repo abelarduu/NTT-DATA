@@ -8,5 +8,8 @@ Repositório central contendo todos os projetos e desafios desenvolvidos durante
 <div>
 <img src="Model-Star-Schema/img1.jpeg" type="image/jpeg" alt="Print_Screen" height=180>
 <img src="Model-Star-Schema/img2.jpeg" type="image/jpeg" alt="Print_Screen Zoom" height=180>
-</div>
+
+<img src="Data_Modeling_with_DAX/img.png" type="image/jpeg" alt="Print_Screen Zoom" height=375>
+
+
 </div>
