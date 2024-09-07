@@ -10,5 +10,5 @@ Este desafio faz parte do bootcamp **NTT-Data** e foca na modelagem de dados em 
 
 ### Resultado
 <div>
-<img src="img.jpeg" type="image/jpeg" alt="Print_Screen" height=200>
+<img src="img.png" type="image/jpeg" alt="Print_Screen" height=200>
 </div>
