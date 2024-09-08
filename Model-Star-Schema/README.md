@@ -1,8 +1,6 @@
 <div align="center">
 
-# NTT-DATA
-
-## Desafio: Model-Star-Schema
+# NTT-DATA Desafio: Model-Star-Schema
 
 ### Sobre o projeto
 
