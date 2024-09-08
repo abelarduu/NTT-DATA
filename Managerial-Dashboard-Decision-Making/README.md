@@ -1,8 +1,6 @@
 <div align="center">
 
-# NTT-DATA
-
-## Desafio: Model-Star-Schema
+# NTT-DATA Desafio: Model-Star-Schema
 
 ### Sobre o projeto
 
@@ -10,6 +8,9 @@ Este desafio faz parte do bootcamp **NTT-Data** e tem como objetivo a criação 
 
 ### Resultado
 <div>
-<img src="img1.jpeg" type="image/jpeg" alt="Print_Screen" height=200>
-<img src="img2.jpeg" type="image/jpeg" alt="Print_Screen Zoom" height=200>
+<img src="print-pag1.png" type="image/png" alt="Print_Screen_pag1" height=200>
+<img src="print-pag2.png" type="image/png" alt="Print_Screen_pag2" height=200>
+<img src="pag1.jpg" type="image/jpg" alt="pag1" height=217>
+<img src="pag2.jpg" type="image/jpg" alt="pag2" height=217>
+</div>
 </div>
