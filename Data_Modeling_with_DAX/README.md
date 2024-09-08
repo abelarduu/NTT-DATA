@@ -1,8 +1,6 @@
 <div align="center">
 
-# NTT-DATA
-
-## Desafio: Data_Modeling_with_DAX
+# NTT-DATA Desafio: Data_Modeling_with_DAX
 
 ### Sobre o projeto
 
