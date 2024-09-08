@@ -8,6 +8,6 @@ Este desafio faz parte do bootcamp **NTT-Data** e tem como objetivo a criação 
 
 ### Resultado
 <div>
-<img src="img1.jpeg" type="image/jpeg" alt="Print_Screen" height=200>
-<img src="img2.jpeg" type="image/jpeg" alt="Print_Screen Zoom" height=200>
+<img src="img1.jpeg" type="image/jpeg" alt="Print_Screen" height=230>
+<img src="img2.jpeg" type="image/jpeg" alt="Print_Screen Zoom" height=230>
 </div>
