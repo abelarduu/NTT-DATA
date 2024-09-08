@@ -2,7 +2,7 @@
  
 # NTT-DATA
 ### Sobre
-Repositório central contendo todos os projetos e desafios desenvolvidos durante o bootcamp NTT Data, organizados em subpastas por tema. Um espaço para acompanhar o progresso e aprendizado ao longo do curso.
+Repositório central de todos os projetos e desafios desenvolvidos durante o bootcamp NTT Data. Ele serve como um espaço para acompanhar meu progresso e aprendizado ao longo do curso, destacando habilidades práticas em tratamento de dados e criação de dashboards no Power BI, conforme aplicado na NTT Data. Este portfólio reflete o avanço contínuo e a aplicação dos conhecimentos adquiridos, oferecendo uma visão clara do meu desenvolvimento.
 
 ### Resultado dos desafios
 <div>
