@@ -1,6 +1,6 @@
 <div align="center">
 
-# NTT-DATA Desafio: Model-Star-Schema
+# NTT-DATA Desafio: Managerial-Dashboard-Decision-Making
 
 ### Sobre o projeto
 
