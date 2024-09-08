@@ -1,6 +1,6 @@
 <div align="center">
 
-# NTT-DATA Desafio: Managerial-Dashboard-Decision-Making
+# NTT-DATA Desafio: Managerial-Dashboard-Design-Enhancement
 
 ### Sobre o projeto
 
