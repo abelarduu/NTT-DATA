@@ -12,9 +12,9 @@ Repositório central de todos os projetos e desafios desenvolvidos durante o boo
 
 <img src="Data_Modeling_with_DAX/img.png" type="image/jpeg" alt="Print_Screen Zoom" height=375>
 
-<img src="Managerial-Dashboard-Decision-Making/print-pag1.png" type="image/png" alt="Print_Screen_pag1" height=187>
-<img src="Managerial-Dashboard-Decision-Making/print-pag2.png" type="image/png" alt="Print_Screen_pag2" height=187>
-<img src="Managerial-Dashboard-Decision-Making/pag1.jpg" type="image/jpg" alt="pag1" height=203>
-<img src="Managerial-Dashboard-Decision-Making/pag2.jpg" type="image/jpg" alt="pag2" height=203>
+<img src="Managerial-Dashboard-Design-Enhancement/print-pag1.png" type="image/png" alt="Print_Screen_pag1" height=187>
+<img src="Managerial-Dashboard-Design-Enhancement/print-pag2.png" type="image/png" alt="Print_Screen_pag2" height=187>
+<img src="Managerial-Dashboard-Design-Enhancement/pag1.jpg" type="image/jpg" alt="pag1" height=203>
+<img src="Managerial-Dashboard-Design-Enhancement/pag2.jpg" type="image/jpg" alt="pag2" height=203>
 </div>
 </div>
