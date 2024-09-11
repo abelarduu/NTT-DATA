@@ -8,7 +8,7 @@ Este desafio faz parte do bootcamp **NTT-Data** e tem como objetivo criar um rel
 
 ### Resultado
 <div>
-<img src="page1.jpg" type="image/jpeg" alt="Homepage" height=230>
-<img src="page2.jpg" type="image/jpeg" alt="Page 2" height=230>
-<img src="page3.jpg" type="image/jpeg" alt="Page 3" height=230>
+<img src="page1.jpg" type="image/jpeg" alt="Homepage" height=560>
+<img src="page2.jpg" type="image/jpeg" alt="Page 2" height=280>
+<img src="page3.jpg" type="image/jpeg" alt="Page 3" height=280>
 </div>
